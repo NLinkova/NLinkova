@@ -4,5 +4,5 @@
 
 - 🔭 I’m currently working on React project
 - 🌱 I’m currently learning Typecript
-- 👯 If ypu are looking to collaborate on some interesting project, just let me know! :green_heart:
+- 👯 If you are looking to collaborate on some interesting projects, just let me know! :green_heart:
 - 📫 How to reach me: linkova.webdev@gmail.com
