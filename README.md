@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Natalia and I love web development
+## I'm Natalia
 
 - 🔭 I’m currently working on React project
 - 🌱 I’m currently learning GraphQL
