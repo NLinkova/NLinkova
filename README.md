@@ -18,6 +18,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs" />
   </a>
+  <br>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,sass,github,gitlab,postman" />
   </a>
