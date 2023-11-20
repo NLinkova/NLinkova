@@ -1,11 +1,7 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Natalia Linkova </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=#007575&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Full-Stack+Developer,;React +Native+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-## I'm Natalia
-<h3 align="center">Web developer from Russia 🇷🇺</h3>
-<h3 align="center">🔧 Technologies & Tools</h3>
-<h4>Frontend: React.js, HTML5, CSS3, JavaScript </h4>
-<h4>Backend: Node.js, Express.js</h4>
-<h4>Database: MongoDB</h4>
-<h4>Version Control: Git, GitHub</h4>
-<h4>Other: Redux, Sass, Bootstrap</h4>
-- 🔭 I’m currently working on React/React Native projects
+
+<br>
